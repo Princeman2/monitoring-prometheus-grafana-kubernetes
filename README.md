@@ -2,7 +2,7 @@
 
 **Production-grade monitoring setup for Kubernetes using Prometheus and Grafana**
 
-![Grafana Kubernetes Dashboard](2-kubernetes-cluster-dashboard.png)
+![Grafana Kubernetes Dashboard](kubernetes-cluster-dashboard.png)
 
 ---
 
